@@ -190,7 +190,7 @@ This project has a solid foundation that can be extended with several high-impac
 
 ## Author
 
-- **[Simran Chhajwani]** - [(https://www.linkedin.com/in/simranchhajwani/)] - [(https://github.com/simrannchhajwani)]
+- **Simran Chhajwani** - https://www.linkedin.com/in/simranchhajwani/ - https://github.com/simrannchhajwani
 
 ---
 
