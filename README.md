@@ -1,4 +1,4 @@
-# Hospital Nutrition Tracking System
+# Hospital Nutrition Tracking System - NutriCare 
 
 The Hospital Nutrition Tracking System is a comprehensive full-stack web application designed to streamline the nutritional care process within a clinical setting. It provides a centralized, role-based platform for patients, doctors, and administrators to collaboratively manage dietary intake, monitor key health metrics, and facilitate personalized nutritional guidance.
 
